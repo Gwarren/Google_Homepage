@@ -1,0 +1,31 @@
+body { background: #FFFFFF; 
+}
+
+img { 
+	margin-top:200px;
+	height:100px; 
+	display:block; 
+	margin-left: auto; 
+	margin-right: auto; 
+	margin:top:20px auto; 
+	
+	}
+nav { 
+text-align:right; 
+vertical-align:top; 
+font-size:small; 
+} 
+li { 
+display:inline; 
+text-decoration:none; 
+margin:10px; 
+}
+
+.search_bar{  
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+    display: block;
+    width: 560px;
+    height: 25px;
+} 
